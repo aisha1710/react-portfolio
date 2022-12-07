@@ -120,3 +120,47 @@ span.navbar-text {
   filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%)
     hue-rotate(346deg) brightness(95%) contrast(86%);
 }
+
+.hero {
+  margin-top: 0;
+  padding: 260px 0 100px 0;
+  background-image: url("./assets/img/dark-background-abstract-background-network-3d-background-2048x1536-8324.png");
+  background-position: top center;
+  background-size: cover;
+}
+.hero .opening {
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 8px 10px;
+  background: #121212;
+  color: white;
+  border: 1px solid white;
+  font-size: 20px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  display: inline-block;
+}
+
+.hero .header h1 {
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 1;
+  margin-bottom: 30px;
+  display: block;
+}
+
+.hero img {
+  animation: rollout 3s linear infinite;
+}
+@keyframes rollout {
+  0% {
+    transform: translateY(-20px);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
