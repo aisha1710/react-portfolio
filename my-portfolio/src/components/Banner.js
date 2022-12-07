@@ -22,7 +22,7 @@ export const Banner = () => {
             </div>
           </Col>
           <Col xs={12} md={6} xl={5}>
-            <div className={"animate__animated animate__zoomIn"}>
+            <div>
               <img src={opening} alt="Header Img" />
             </div>
           </Col>
