@@ -26,6 +26,9 @@ export const Skills = () => {
                     <div>
                       <img src={image} alt="My image" />
                     </div>
+                    <a href="https://docs.google.com/document/d/1tj6ec3WpUZLzr1ObJyNbXw4gjLNFmrY0/edit">
+                      Download Resume
+                    </a>
                   </Col>
                 </Row>
               </Container>
