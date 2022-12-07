@@ -1,4 +1,3 @@
-import "react-multi-carousel/lib/styles.css";
 import { Container, Row, Col } from "react-bootstrap";
 import image from "../assets/img/image.jpg";
 
@@ -8,7 +7,7 @@ export const Skills = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="box wow zoomIn">
+            <div className="box ">
               <h2>About me</h2>
               <Container>
                 <Row className="align-items-center">
