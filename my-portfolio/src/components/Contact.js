@@ -10,7 +10,7 @@ export const Contact = () => {
             <h1 className="contactMe">Get in touch</h1>
             <form
               target="_blank"
-              action="https://formsubmit.co/faisha879@gmail.com"
+              action="https://formsubmit.co/ad34da8025db01752fb94d2f33ef4f8f"
               method="POST"
             >
               <div class="form-group">
