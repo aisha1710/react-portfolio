@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# React Portfolio App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+
+My personal portfolio which features some of my github projects as well as my resume.
+
+This project was built using these technologies.
+
+- React.js
+- Javascript
+- Css
+
+## Deployed link
+
+https://aisha1710.github.io/react-portfolio/
+
+### Screenshot
+
+![screenshot of page.](./src/assets/img/screenshot.png)
 
 ## Available Scripts
 
