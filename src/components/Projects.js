@@ -5,7 +5,7 @@ import proj2 from "../assets/img/proj2.png";
 import proj3 from "../assets/img/proj3.png";
 import proj4 from "../assets/img/proj4.png";
 import proj5 from "../assets/img/proj5.png";
-import proj6 from "../assets/img/proj6.png";
+import proj from "../assets/img/proj.png";
 
 export const Projects = () => {
   const projects = [
@@ -40,10 +40,10 @@ export const Projects = () => {
       github: "https://github.com/aisha1710/SCA-Rental",
     },
     {
-      title: "Password Generator",
-      imgUrl: proj6,
-      deployed: "https://aisha1710.github.io/password-generator/",
-      github: "https://github.com/aisha1710/password-generator",
+      title: "Fakebook",
+      imgUrl: proj,
+      deployed: "https://agile-taiga-04390.herokuapp.com/profile",
+      github: "https://github.com/aisha1710/Fakebook",
     },
   ];
 
